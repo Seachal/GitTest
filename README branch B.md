@@ -6,3 +6,5 @@ branch B , commit 1
 ## ##  branch B , commit 2
 
 ##  branch B, commit 3
+
+##  branch B, commit 4
