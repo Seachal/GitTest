@@ -2,3 +2,5 @@
 自己测试git的使用方式
 
 branch B , commit 1
+
+## ##  branch B , commit 2
